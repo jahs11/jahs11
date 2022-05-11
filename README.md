@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jahs11
-- 👀 I’m interested in learning c programming
-- 🌱 I’m currently learning c programming
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 

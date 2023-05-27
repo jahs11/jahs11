@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jash11
+- 👋 Hi, I’m jashwanth
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on nothing
